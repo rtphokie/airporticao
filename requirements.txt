@@ -1,0 +1,4 @@
+requests-cache>=1.2.1
+latest-user-agents>=0.0.3
+timezonefinder>=6.5
+beautifulsoup4>=4.12
